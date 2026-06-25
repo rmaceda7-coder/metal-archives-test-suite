@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment files
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Test artifacts
+reports/
+artifacts/
+screenshots/
+videos/
+traces/
+playwright-report/
+test-results/
+
+# OS files
+.DS_Store
+Thumbs.db
